@@ -162,3 +162,14 @@ Automatically creates calendar events using extracted information.
 
 - LinkedIn: linkedin.com/in/twajeeha
 - GitHub: github.com/wajeehasheikh749
+
+
+## Screenshots
+
+### Workflow Overview 
+![Workflow Overview]
+(workflow-overview.png) 
+
+### Calendar Event Created 
+![Calendar Event Preview]
+(calender-event-preview.png.png)
